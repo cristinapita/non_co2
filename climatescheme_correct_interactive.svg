@@ -208,7 +208,7 @@
       <stop offset=".66" stop-color="#f5f9ff"/>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="493" y1="-70.4" x2="493" y2="41.72" gradientTransform="translate(0 47.02)" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-3" x1="813.55" y1="-283.14" x2="813.55" y2="-194.93" gradientTransform="translate(-802.14 592.26)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="813.55" y1="-292.1" x2="813.55" y2="-203.88" gradientTransform="translate(-793.19 601.21)" xlink:href="#linear-gradient"/>
   </defs>
   <g id="Layer_1" data-name="Layer 1">
     <rect class="cls-10" width="1024" height="681"/>
@@ -3165,7 +3165,7 @@
     <rect class="cls-1" x="323" y="298" width="222" height="24"/>
     <rect class="cls-11" x="-58" y="582" width="1102" height="112.12"/>
     <rect class="cls-9" x="-58" y="-23.38" width="1102" height="112.12" transform="translate(986 65.36) rotate(180)"/>
-    <rect class="cls-8" x="-539.6" y="309.12" width="1102" height="88.22" transform="translate(364.63 341.82) rotate(90)"/>
+    <rect class="cls-8" x="-530.64" y="309.12" width="1102" height="88.22" transform="translate(373.58 332.87) rotate(90)"/>
   </g>
   <g id="Layer_2" data-name="Layer 2">
     <g id="sulfate1">
